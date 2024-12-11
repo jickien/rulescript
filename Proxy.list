@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 # 临时
 DOMAIN-SUFFIX,melvoridle.com
 DOMAIN-SUFFIX,melvoridle.net
+DOMAIN-KEYWORD,radio
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
